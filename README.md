@@ -3,7 +3,9 @@
 
 ## Problem Statement
 
-Unveiling Customer Behaviour through Association Analysis: Utilize market basket analysis on the provided dataset to uncover hidden patterns and associations between products, aiming to understand customer purchasing behaviour and identify potential cross-selling opportunities for the retail business.
+Unveiling Customer Behaviour through Association Analysis: Utilize market basket analysis on the provided dataset to uncover hidden patterns and associations between products, aiming to understand customer purchasing behaviour and identify potential cross-selling opportunities for the retail business.<br>
+
+Dataset for this project on [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis).
 
 ## Project Team:
 1) Name: J B Mugundh<br>
