@@ -60,7 +60,7 @@ This just simple example. In practice, a rule needs the support of several hundr
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/vijaisuria/au-sap-website.git
+  https://github.com/J-B-Mugundh/IBMAI101-Artificial-Intelligence.git
    ```
 
 2. Open the project directory in your preferred code editor (Visual Studio Code / Google Colab / Jupyter Notebook).
